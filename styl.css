@@ -10,6 +10,10 @@ nav,footer{margin: 10px;
 
 
 }
+main{
+
+    display:flex;
+}
 
 
 div,section{
@@ -67,3 +71,4 @@ a:hover {
     color: white;
     text-decoration: underline;
 }
+
